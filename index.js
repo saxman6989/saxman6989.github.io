@@ -1,4 +1,4 @@
-const happyDay = new Date("Febuary 4, 2022 00:00:00").getTime();
+const happyDay = new Date("February 4, 2022 00:00:00").getTime();
 
 setInterval(() => {
     let now = new Date().getTime();
